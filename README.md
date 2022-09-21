@@ -9,3 +9,5 @@ Este repositorio contiene el **material docente** de la asignatura **informátic
 * Tema 6: Ficheros-Matplotlib
 
 Más información sobre el temario en el archivo `indice.pdf` dentro de la carpeta _Material_. La versión de Python utilizada para la asignatura es la 3.9 y el entorno de programación Spyder.
+
+COPYRIGHT Dpto. de Matemática Aplicada a la Ingeniería Aeroespacial, 2022-2023
