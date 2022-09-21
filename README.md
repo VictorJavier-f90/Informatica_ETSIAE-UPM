@@ -8,4 +8,4 @@ Este repositorio contiene el **material docente** de la asignatura **informátic
 * Tema 5: Vectores y Matrices
 * Tema 6: Ficheros-Matplotlib
 
-Para más información sobre el temario ver el archivo `indice.pptx` dentro de la carpeta _Material_. La versión de Python utilizada para ejercicios es la 3.9 y el entorno de programación Spyder. 
+Para más información sobre el temario ver el archivo `indice.pdf` dentro de la carpeta _Material_. La versión de Python utilizada para ejercicios es la 3.9 y el entorno de programación Spyder. 
