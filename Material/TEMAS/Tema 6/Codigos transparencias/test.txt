@@ -1,0 +1,4 @@
+mi primer fichero
+Este fichero
+
+contiene tres lineas
